@@ -20,7 +20,8 @@
       "lib-openssl": "*"
     },
     "require-dev": {
-        "phpunit/phpunit": "4.*"
+        "phpunit/phpunit": "4.*",
+        "escapestudios/symfony2-coding-standard": "~2.0"
     },
     "suggest": {
         "ircmaxell/random-lib": "For generating tokens without openssl_random_pseudo_bytes"
